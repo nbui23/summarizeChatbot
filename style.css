@@ -1,0 +1,28 @@
+/* Add some styles to the form and chatbot response */
+
+form {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  textarea {
+    width: 100%;
+    height: 200px;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #chatbot-response {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    text-align: left;
+  }
+  
